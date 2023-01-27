@@ -1,5 +1,6 @@
 # CSCI-130-Lab-2
 Lab 2 for CSCI 130, Scientific Programing
+Prompt:
 1.	Write a program that prints the numbers 1 to 4 on the same line, using the following methods. 
   a.	Using one printf statement with no conversion specifiers. 
   b.	Using one printf statement with four conversion specifiers. 
